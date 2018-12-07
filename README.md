@@ -1,2 +1,2 @@
 # media-list
-Another attemp
+In attempt to create a simple web app
